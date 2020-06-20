@@ -1,0 +1,96 @@
+Simulation starts with M = 32, q = 2^8, K = 1600, T = 1
+===== 0 =====
+InactDec run 1 succeeds!
+InactDec: nRecPkg = 2190 nSavedPkg = 1602 loss(dependant) = 588
+InactDec: nDecoded = 1600 nInactVar = 92 nC2 = 87 nHDPC = 7
+Decoded/Total: 1600/1600 With 2208 packets transmitted
+Rate = 0.730594
+Decoding time = 0.466667 Encoding time = 0.05
+Rank Distribution: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.0147059 0 0.0147059 0.0294118 0.102941 0.0882353 0.235294 0.220588 0.220588 0.0735294 0 0 0 0 0 0 
+E[rank(H)] = 23.3529(0.729779)
+===== 1 =====
+InactDec run 1 succeeds!
+InactDec: nRecPkg = 2224 nSavedPkg = 1602 loss(dependant) = 622
+InactDec: nDecoded = 1594 nInactVar = 98 nC2 = 93 nHDPC = 7
+Decoded/Total: 1600/1600 With 2240 packets transmitted
+Rate = 0.719424
+Decoding time = 0.383333 Encoding time = 0.0333333
+Rank Distribution: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.0144928 0 0.0144928 0.0434783 0.115942 0.173913 0.231884 0.231884 0.115942 0.0289855 0.0289855 0 0 0 0 0 
+E[rank(H)] = 22.9855(0.718297)
+===== 2 =====
+InactDec run 1 succeeds!
+InactDec: nRecPkg = 2195 nSavedPkg = 1602 loss(dependant) = 593
+InactDec: nDecoded = 1596 nInactVar = 96 nC2 = 91 nHDPC = 7
+Decoded/Total: 1600/1600 With 2208 packets transmitted
+Rate = 0.728929
+Decoding time = 0.383333 Encoding time = 0.0166667
+Rank Distribution: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.0147059 0 0 0.0147059 0.0882353 0.191176 0.220588 0.235294 0.161765 0.0735294 0 0 0 0 0 0 
+E[rank(H)] = 23.2794(0.727482)
+===== 3 =====
+InactDec run 1 succeeds!
+InactDec: nRecPkg = 2167 nSavedPkg = 1602 loss(dependant) = 565
+InactDec: nDecoded = 1597 nInactVar = 95 nC2 = 90 nHDPC = 7
+Decoded/Total: 1600/1600 With 2176 packets transmitted
+Rate = 0.738348
+Decoding time = 0.383333 Encoding time = 0.0166667
+Rank Distribution: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.0597015 0.0597015 0.164179 0.0895522 0.328358 0.19403 0.104478 0 0 0 0 0 0 
+E[rank(H)] = 23.5672(0.736474)
+===== 4 =====
+InactDec run 1 succeeds!
+InactDec: nRecPkg = 2214 nSavedPkg = 1602 loss(dependant) = 612
+InactDec: nDecoded = 1607 nInactVar = 85 nC2 = 80 nHDPC = 7
+Decoded/Total: 1600/1600 With 2240 packets transmitted
+Rate = 0.722674
+Decoding time = 0.366667 Encoding time = 0.05
+Rank Distribution: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.0289855 0.144928 0.173913 0.217391 0.26087 0.101449 0.0724638 0 0 0 0 0 0 
+E[rank(H)] = 23.1304(0.722826)
+===== 5 =====
+InactDec run 1 succeeds!
+InactDec: nRecPkg = 2230 nSavedPkg = 1602 loss(dependant) = 628
+InactDec: nDecoded = 1599 nInactVar = 93 nC2 = 88 nHDPC = 7
+Decoded/Total: 1600/1600 With 2240 packets transmitted
+Rate = 0.717489
+Decoding time = 0.366667 Encoding time = 0.0333333
+Rank Distribution: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.0144928 0.0144928 0.057971 0.130435 0.173913 0.188406 0.217391 0.188406 0.0144928 0 0 0 0 0 0 
+E[rank(H)] = 22.8986(0.71558)
+===== 6 =====
+InactDec run 1 succeeds!
+InactDec: nRecPkg = 2217 nSavedPkg = 1602 loss(dependant) = 615
+InactDec: nDecoded = 1596 nInactVar = 96 nC2 = 91 nHDPC = 7
+Decoded/Total: 1600/1600 With 2240 packets transmitted
+Rate = 0.721696
+Decoding time = 0.383333 Encoding time = 0.0166667
+Rank Distribution: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.0144928 0.057971 0.15942 0.101449 0.231884 0.188406 0.188406 0.057971 0 0 0 0 0 0 
+E[rank(H)] = 23.087(0.721467)
+===== 7 =====
+InactDec run 1 succeeds!
+InactDec: nRecPkg = 2226 nSavedPkg = 1603 loss(dependant) = 623
+InactDec: nDecoded = 1588 nInactVar = 104 nC2 = 100 nHDPC = 7
+Decoded/Total: 1600/1600 With 2240 packets transmitted
+Rate = 0.718778
+Decoding time = 0.383333 Encoding time = 0.0166667
+Rank Distribution: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.0434783 0.0724638 0.0869565 0.115942 0.275362 0.231884 0.115942 0.0434783 0.0144928 0 0 0 0 0 
+E[rank(H)] = 22.971(0.717844)
+===== 8 =====
+InactDec run 1 succeeds!
+InactDec: nRecPkg = 2169 nSavedPkg = 1602 loss(dependant) = 567
+InactDec: nDecoded = 1596 nInactVar = 96 nC2 = 91 nHDPC = 7
+Decoded/Total: 1600/1600 With 2176 packets transmitted
+Rate = 0.737667
+Decoding time = 0.383333 Encoding time = 0.0333333
+Rank Distribution: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.0298507 0.119403 0.104478 0.164179 0.313433 0.164179 0.0895522 0.0149254 0 0 0 0 0 
+E[rank(H)] = 23.5373(0.735541)
+===== 9 =====
+InactDec run 1 succeeds!
+InactDec: nRecPkg = 2183 nSavedPkg = 1603 loss(dependant) = 580
+InactDec: nDecoded = 1593 nInactVar = 99 nC2 = 95 nHDPC = 7
+Decoded/Total: 1600/1600 With 2208 packets transmitted
+Rate = 0.732936
+Decoding time = 0.383333 Encoding time = 0.0166667
+Rank Distribution: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.0147059 0.0147059 0.0294118 0.0735294 0.102941 0.235294 0.279412 0.132353 0.0735294 0.0441176 0 0 0 0 0 
+E[rank(H)] = 23.4706(0.733456)
+======== END =======
+Simulation ends with 10 succeeds out of 10 runs
+Average Rank Distribution: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.00439045 0.00291986 0.0116368 0.0423951 0.108149 0.139014 0.208984 0.250752 0.158306 0.0632009 0.0102521 0 0 0 0 0 
+Average rate of succeeded runs = 0.721501 vs average rank = 0.725875
+Error iterations: 
